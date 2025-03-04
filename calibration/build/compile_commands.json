@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/li/Downloads/CLASS_5/calibration/build",
+  "command": "/usr/bin/g++  -DELPP_NO_DEFAULT_LOG_FILE -isystem /usr/include/opencv4  -g   -std=gnu++17 -o CMakeFiles/main.dir/calibration.cpp.o -c /home/li/Downloads/CLASS_5/calibration/calibration.cpp",
+  "file": "/home/li/Downloads/CLASS_5/calibration/calibration.cpp"
+}
+]
